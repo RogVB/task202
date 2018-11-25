@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">task202</string>
+    <string name="mostrar_actionbar">Show ActionBar</string>
+    <string name="ocultar_actionbar">Hide ActionBar</string>
+</resources>
